@@ -1,4 +1,5 @@
-//C Language Menu – Learn Core Concepts, Arrays, and Strings by saswinkumar017
+//C Language Menu – Learn Core Concepts, Arrays, and Strings by @saswinkumar017
+// GitHub link - https://github.com/saswinkumar017/Program_C.git
 
 
 #include <stdio.h>
